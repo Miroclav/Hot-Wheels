@@ -1,0 +1,32 @@
+/* Media Queries */
+
+/* 992 - 1200 px */
+@media screen and (max-width: 1200px) {
+	.offer {
+		
+	}
+
+	.merit__btn {
+		left: 395px;
+	}
+	.merit__title {
+		text-align: center;
+	    margin-bottom: 40px;
+	}
+	
+}
+
+/* 768 - 992 px */
+@media screen and (max-width: 992px) {
+	
+}
+
+/* 576 - 768 px */
+@media screen and (max-width: 768px) {
+	
+}
+
+/* 320 - 576 px */
+@media screen and (max-width: 576px) {
+	
+}
