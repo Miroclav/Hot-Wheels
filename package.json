@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/Miroclav/lab-consulting.git"
+  "homepage": "https://github.com/Miroclav.io/lab-consulting",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy"
   },
   "keywords": [],
   "author": "",
